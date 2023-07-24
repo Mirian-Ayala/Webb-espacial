@@ -1,0 +1,67 @@
+body{
+    background-image: url(/images/1200152.png);
+    background-color: #01041b;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    
+
+}
+
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+.images{
+    width: 300px;
+}
+
+.main-title {
+    font-family: 'Agdasima', sans-serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Gloock', serif;
+color: rgb(255, 255, 255);
+font-size: 80px;
+text-align: center;
+}
+
+.title-estrellas {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.title-misiones {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+
+.title-astrobiologia {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+
+.title-universo{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.title-galaxias{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+   
+
+
+/*
+selector{
+    propiedad : valor ;
+} */
